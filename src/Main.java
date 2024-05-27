@@ -48,11 +48,6 @@ public class Main {
 
 //        task4
         System.out.println("task4");
-        for (int i = 0; numbers.length > i; i++) {
-            if (numbers[i] % 2 == 1) {
-                numbers[i] = numbers[i] + 1;
-            }
-        }
 
         for (int j = 0; numbers.length > j; j++) {
             if(numbers[j] % 2 == 1) {
